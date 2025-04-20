@@ -1,0 +1,11 @@
+# Ignore TinyLlama-related files
+tinyllama/
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore audio_lines folder
+audio_lines/
+
+# Ignore all config files
+config/
